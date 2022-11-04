@@ -1,3 +1,8 @@
+Repository for storing specific FSL (v 6.0.5) binary files for ezBIDS. Currently, ezBIDS only uses FSL's `flirt` and `fslreorient2std` functions. Rather than including the entire FSL package in the ezBIDS Docker container, this repository is git cloned instead.
+
+FSL Licence:
+--------------
+
 FMRIB Software Library, Release 6.0 (c) 2018, The University of Oxford
 (the "Software")
 
